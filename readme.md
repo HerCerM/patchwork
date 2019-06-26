@@ -1,4 +1,4 @@
-# Patchwork
+# Patchwork - A Community Project
 
 ![screenshot](https://raw.githubusercontent.com/jlord/patchwork/gh-pages/patchwork-ss.png)
 
